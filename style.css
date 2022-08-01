@@ -142,7 +142,7 @@ footer {
     }
 
     .container img {
-        width: 60%;
+        width: 50%;
     }
 
     .container h2 {
@@ -154,7 +154,7 @@ footer {
     }
 
     li button {
-        font-size: 14px;
+        font-size: 13px;
         width: 150px;
         padding: 8px 8px 8px 8px;
     } 
