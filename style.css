@@ -43,8 +43,8 @@ body.dark {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    width: 80%;
-    height: 80vh;
+    width: 90%;
+    height: 90vh;
 }
 
 .container img{
@@ -136,8 +136,8 @@ footer {
     border-radius: 50%;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 380px) {
     .box {
-        width: 70%
+        width: 65%
     }
 }
