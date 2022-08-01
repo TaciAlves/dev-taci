@@ -136,9 +136,9 @@ footer {
     border-radius: 50%;
 }
 
-@media (max-width: 300px) {
+@media (max-width: 376px) {
     .box {
-        width: 65%
+        width: 70%
     }
 
     .container img {
@@ -146,21 +146,21 @@ footer {
     }
 
     .container h2 {
-        font-size: 20px;
+        font-size: 25px;
     }
 
     .container h3 {
-        font-size: 14px;
+        font-size: 15px;
     }
 
     li button {
-        font-size: 10px;
-        width: 110px;
-        padding: 5px 5px 5px 5px;
+        font-size: 14px;
+        width: 150px;
+        padding: 8px 8px 8px 8px;
     } 
 
     footer {
-        font-size: 12px;
+        font-size: 15px;
     }
 
     
